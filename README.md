@@ -5,4 +5,4 @@
 
 ### Screenshot of the site
 
-![Alt Text]()
+![Alt Text](https://github.com/Soumik16/Login-Page/blob/main/Login-Page_Screenshot.png?raw=true)
